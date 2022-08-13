@@ -23,6 +23,8 @@ Developer
   <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" width="50" height="36" alt="php" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" width="36" height="36" alt="laravel" /></a>
+  
 </p>
                     
 ### Socials
