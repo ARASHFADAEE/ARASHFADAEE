@@ -27,8 +27,7 @@ Developer
 </p>
 ## coding activity
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a430713a-8667-41d7-a532-156f21fbc765/ea07e940-5fb8-4ad7-a2dc-f533dcdd9949.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a430713a-8667-41d7-a532-156f21fbc765/c4a8dd9d-dcab-480e-aa67-37d83945fa1d.png" /></a>
 ### Socials
                   
 <p align="left">
