@@ -25,9 +25,6 @@ Developer
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="36" height="36" alt="vue.js" /></a>
   
 </p>
-## coding activity
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a430713a-8667-41d7-a532-156f21fbc765/c4a8dd9d-dcab-480e-aa67-37d83945fa1d.png" /></a>
 ### Socials
                   
 <p align="left">
