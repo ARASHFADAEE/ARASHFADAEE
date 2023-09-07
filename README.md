@@ -22,9 +22,9 @@ I'm a lover of programming and cool work, I'm currently study at IAU of Bushehr,
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Python Badge](https://img.shields.io/badge/-PHP-ffc938?style=for-the-badge&labelColor=FFFFFFlogo=python&logoColor=61DBFB)](https://github.com/MRAdibi/Calculator-With-Pyqt5) [![Django Badge](https://img.shields.io/badge/-Django-092c1e?style=for-the-badge&labelColor=1f211f&logo=django&logoColor=fff)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=2d3436&logo=javascript&logoColor=F0DB4F)](https://github.com/MRAdibi/Speed-Type)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-34495e?style=for-the-badge&labelColor=7813e4&logo=bootstrap&logoColor=fff)](https://github.com/MRAdibi/Speed-Type) [![Sass Badge](https://img.shields.io/badge/-SASS-e84393?style=for-the-badge&labelColor=dfe6e9&logo=sass&logoColor=e84393)](#)
+[![Python Badge](https://img.shields.io/badge/-PHP-ffc938?style=for-the-badge&labelColor=FFFFFFlogo=PHP&logoColor=FFFFFF)](https://github.com/MRAdibi/Calculator-With-Pyqt5) [![Django Badge](https://img.shields.io/badge/-Django-092c1e?style=for-the-badge&labelColor=1f211f&logo=django&logoColor=fff)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=2d3436&logo=javascript&logoColor=F0DB4F)](https://github.com/MRAdibi/Speed-Type)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-34495e?style=for-the-badge&labelColor=7813e4&logo=bootstrap&logoColor=fff)](https://github.com/MRAdibi/Speed-Type) [![Sass Badge](https://img.shields.io/badge/-SASS-e84393?style=for-the-badge&labelColor=dfe6e9&logo=sass&logoColor=e84393)](#)
 
 
 ### Github Stats
 
-![MRAdibi's github stats](https://github-readme-stats.vercel.app/api?username=MRAdibi&count_private=true&theme=dracula&hide=prs)
+![MRAdibi's github stats](https://github-readme-stats.vercel.app/api?username=ARASHFADAEE&count_private=true&theme=dracula&hide=prs)
