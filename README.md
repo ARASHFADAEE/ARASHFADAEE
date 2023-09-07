@@ -1,38 +1,30 @@
-My name is Hossein Fadaei
-===============================
+## Hi I'm Hossein fadaei <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Developer
------------------------------
+I'm a lover of programming and cool work, I'm currently study at IAU of Bushehr, I'm so interested in learning new technology, actually i'm fast learner 😉😉
 
-*   🖥️  See my portfolio at [technofars.com](https://technofars.com/Services/examples-of-works/)
-*   🚀  I'm currently working on [iranausbildung.com](https://iranausbildung.com)
-*   🤝  I'm open to collaborating on interesting projects as a web developer
-*   🔭 I’m currently working on for my self
-*   🌱 I’m currently learning C# 
-*   💬 Ask me about My skill
-*   📫 How to reach me: info@hosseindev.ir
-*   ⚡ Fun fact: I like all programming language :)
+:mailbox: Reach me out!
 
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-          <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" width="50" height="36" alt="php" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" width="36" height="36" alt="laravel" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="36" height="36" alt="vue.js" /></a>
-  
-</p>
-### Socials
-                  
-<p align="left">
-    <a href="https://www.instagram.com/arashfadaee.web" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://github.com/ARASHFADAEE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://hosseindev.ir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/hossein-fadaei-617b05223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/arbitgan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad_Reza_Adibi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-adibi-b4370a221/) [![Mail Badge](https://img.shields.io/badge/-@MohammadRezaAdibi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_reza_adibi/) [![Mail Badge](https://img.shields.io/badge/-Mohammad_Reza_Adibi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.r.adibi125@gmail.com)
 
-### Support Me
-<a href="https://www.buymeacoffee.com/hoseinfd205"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- TODO: Add last video link -->
+
+## A few things about me
+
+- 👨🏻‍🎓 I’m currently study at **IAU** of Bushehr
+- 👀 born on 02 october 2002
+- 🌍 from Iran, Bushehr
+- :computer: Most used line of code `print("Hello World")` just kidding 😂😂
+- 📫 How to reach me: hoseinfadaeeit@gmail.com.
+- 😄 I always like to share my knowledge
+- ⚡ Fun fact: Actually i also love video games and GYM workout i think a healthy brain is in a helthy body
+
+### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![Python Badge](https://img.shields.io/badge/-PHP-ffc938?style=for-the-badge&labelColor=FFFFFFlogo=python&logoColor=61DBFB)](https://github.com/MRAdibi/Calculator-With-Pyqt5) [![Django Badge](https://img.shields.io/badge/-Django-092c1e?style=for-the-badge&labelColor=1f211f&logo=django&logoColor=fff)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=2d3436&logo=javascript&logoColor=F0DB4F)](https://github.com/MRAdibi/Speed-Type)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-34495e?style=for-the-badge&labelColor=7813e4&logo=bootstrap&logoColor=fff)](https://github.com/MRAdibi/Speed-Type) [![Sass Badge](https://img.shields.io/badge/-SASS-e84393?style=for-the-badge&labelColor=dfe6e9&logo=sass&logoColor=e84393)](#)
+
+
+### Github Stats
+
+![MRAdibi's github stats](https://github-readme-stats.vercel.app/api?username=MRAdibi&count_private=true&theme=dracula&hide=prs)
