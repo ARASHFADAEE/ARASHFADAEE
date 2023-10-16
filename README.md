@@ -8,7 +8,7 @@ Developer
 *   🚀  I'm currently working on [iranausbildung.com](https://iranausbildung.com)
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 *   🔭 I’m currently working on for my self
-*   🌱 I’m currently learning C# 
+*   🌱 I’m currently learning nodejs
 *   💬 Ask me about My skill
 *   📫 How to reach me: info@hosseindev.ir
 *   ⚡ Fun fact: I like all programming language :)
