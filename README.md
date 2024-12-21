@@ -58,6 +58,5 @@ Developer
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ARASHFADAEE/ARASHFADAEE/output/snake.svg" alt="Snake animation" />
 
 ###
