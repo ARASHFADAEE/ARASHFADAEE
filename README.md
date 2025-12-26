@@ -3,7 +3,7 @@
 Developer
 -----------------------------
 
-*   🖥️  See my portfolio at [ariascode.ir](https://ariascode.ir/our_team/arash-fadaee)
+*   🖥️  See my portfolio at [fadaee.dev](https://fadaee.dev)
 *   🚀  I'm currently working on [iranausbildung.com](https://iranausbildung.com)
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 *   🔭 I’m currently working on for my self
